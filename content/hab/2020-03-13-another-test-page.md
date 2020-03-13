@@ -7,4 +7,4 @@ categories:
 slug: another-quick-hab-doc-test
 ---
 
-A second page update. Will this change the things? We don't know. 
+A second page update. Will this change the things? We don't know.

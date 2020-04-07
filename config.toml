@@ -1,0 +1,7 @@
+[module]
+  [[module.imports]]
+    path = "github.com/ianmadd/other-source"
+
+    [[module.imports.mounts]]
+    source = "content/"
+    target = "content/"

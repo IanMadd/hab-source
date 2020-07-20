@@ -1,5 +1,2 @@
-github.com/ianmadd/hab-source/content/hab v0.0.0-20200410225711-fcb118b14aa2/go.mod h1:H8mnXrtAnY2wu2Gczb1aIXYOHXwCpjBithp83isCmww=
-github.com/ianmadd/hugo-xmin v0.0.0-20200313211638-03c81c37318e/go.mod h1:9DduG0PyrhE0xlpdLx9tg9Gp/PcyyodXRF8bvxB0T1U=
-github.com/ianmadd/main-docs v0.0.0-20200413212427-beb9c1cb0fcd h1:PpwtJ8IHW8CcqMTDfK7uDlAJsxVZuyb1DXVlgPVPwBA=
-github.com/ianmadd/main-docs v0.0.0-20200413212427-beb9c1cb0fcd/go.mod h1:IvcwkGKMPVaD3SV38u3m+Yu/5WSi+SALyQqDn1lXyYw=
+github.com/ianmadd/other-source v0.0.0-20200317003841-b1da785f5974 h1:ejZwSwefGI8FMTPamNk06rQI7LkHXF/nwNf7X9JP1hw=
 github.com/ianmadd/other-source v0.0.0-20200317003841-b1da785f5974/go.mod h1:WWbZyiODJNUs0CFq379dyWaY9kzSsfwf5h/g3B0zHmo=
